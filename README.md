@@ -2,12 +2,12 @@
 In this Project I create Virtual representation  of File System 
 
 <h3 align="left">Programming Language</h3>
-
 - To develop this project we select C Programming Language.
-### Operating System Used : 
-As this Project execute on a primary storage i.e. RAM. their is no special requirements of an Operating System 
-### Description : 
-This prohr 
+<h3 align="left">Operating System Used</h3> 
+- As this Project execute on a primary storage i.e. RAM. their is no special requirements of an Operating System.
+<h3 align="left">Description</h3> 
+- In this project we emulate all data structure which are used by operating system to manage File system oriented task.
+- As the name suggest its virtual because we maintain all record in Primary storage.
 
 
 
