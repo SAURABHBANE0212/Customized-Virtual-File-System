@@ -39,4 +39,10 @@ In this Project I create Virtual representation  of File System
 
 ![S](./S.png)
 
+<h3 align="left">Reference </h3> 
 
+- LINUX SYSTEM PROGRAMMING - by Robert Love.
+
+- Advanced UNIX SYSTEM PROGRAMMING - by W. Richard Stevens.
+
+- THE LINUX PROGRAMING INTERFACE - by Michael Kerrisk.
