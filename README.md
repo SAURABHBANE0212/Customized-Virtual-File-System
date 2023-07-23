@@ -23,6 +23,6 @@ In this Project I create Virtual representation  of File System
 
 <h3 align="left">File System Layout On HARD DISK</h3>
 
-![connect-with-me.png](./connect-with-me.png.png)
+![File-System-Layout](./File-System-Layout.png)
 
 
