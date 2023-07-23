@@ -4,7 +4,7 @@ In this Project I create Virtual representation  of File System
 <h3 align="left">Programming Language</h3>
 - To develop this project we select C Programming Language.
 
-- My primary coding language: C, C++, JAVA, Python.
+- To develop this project we select C Programming Language.
 <h3 align="left">Operating System Used</h3> 
 - As this Project execute on a primary storage i.e. RAM. their is no special requirements of an Operating System.
 <h3 align="left">Description</h3> 
