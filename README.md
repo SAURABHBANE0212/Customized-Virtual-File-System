@@ -28,6 +28,6 @@ In this Project I create Virtual representation  of File System
 
 <h3 align="left">File System Layout On RAM :</h3>
 
-![File-System-Layout](./File-System-Layout.png)
+![File-System-Layout-on-RAM](./File-System-Layout-on-RAM.png)
 
 
