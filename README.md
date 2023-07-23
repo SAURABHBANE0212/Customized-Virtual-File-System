@@ -31,3 +31,8 @@ In this Project I create Virtual representation  of File System
 ![File-System-Layout-on-RAM](./File-System-Layout-on-RAM.png)
 
 
+<h3 align="left">Data Structure of Customize Virtual File System from RAM :</h3>
+
+![d](./d.png)
+
+
