@@ -21,4 +21,8 @@ In this Project I create Virtual representation  of File System
 
 - By using this project we can get overview of UFS (UNIX File System) on any platform.
 
+<h3 align="left">File System Layout On HARD DISK</h3>
+
+  ![connect-with-me.png](./connect-with-me.png.png)
+
 
