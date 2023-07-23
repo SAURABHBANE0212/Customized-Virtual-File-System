@@ -35,4 +35,8 @@ In this Project I create Virtual representation  of File System
 
 ![d](./d.png)
 
+<h3 align="left">Output of Customized Virtual File System On Terminal</h3>
+
+![S](./S.png)
+
 
